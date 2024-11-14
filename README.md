@@ -18,5 +18,5 @@ The datasets (csv file) is in the _data_ folder.
 Check this post for better understanding: 
 https://medium.com/@minfer/how-to-predict-if-a-client-if-going-to-complete-an-offer-starbucks-rewards-708092dba770
 
-#Note
+# Note
 This project is based on the Udacity course.
