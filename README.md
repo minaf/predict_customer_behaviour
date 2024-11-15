@@ -12,7 +12,7 @@ You will need to install the following libraries:
 
 # Run
 For running the code, you can simply follow the steps in the notebook (_Starbucks_Capstone_notebook.ipynb_). 
-The datasets (csv file) is in the _data_ folder.
+The datasets (json files) are in the _data_ folder.
 
 
 # Note
